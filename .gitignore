@@ -15,3 +15,11 @@
 /log/*
 !/log/.keep
 /tmp
+.DS_Store
+/.DS_Store/*
+/.DS_Store
+/vendor/
+secret.key
+public/assets
+/doc/
+/.idea/
